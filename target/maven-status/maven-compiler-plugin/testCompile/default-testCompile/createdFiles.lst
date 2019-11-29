@@ -1,0 +1,14 @@
+Tests\TestAddShipmentProfile.class
+Tests\testRunner.class
+Tests\TestAddContact2.class
+Tests\TestAddOrder.class
+Tests\TestImportShipment.class
+Tests\TestImportOrders.class
+Tests\TestLogin.class
+Tests\TestForgotPassword.class
+Tests\TestBatchShipments.class
+Tests\TestAddContact.class
+Tests\TestAddProducts.class
+Tests\TestAddShipment.class
+Tests\TestCreateShipcaddieAccount.class
+Tests\verifySmokeTests.class

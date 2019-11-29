@@ -1,0 +1,2 @@
+Reference#,ShippingSite,ShipDate,Carrier,ServiceLevel,Recipient,Address,Zip,City,State,Country,Phone,Packaging,Weight,DomensionX,DomensionY,DomensionZ,
+Test546,test 1 4 SHAKER HOLLOW RD SETAUKET NY 11733-2250United States,07/25/2019,UPS-Test(Certify Mode),ExpressMail,DummyUser,Testhome,23454,Rey,AA-ArmedForcesAmerican,UnitedStates,342345,CustomPackaging,35,10,20,10

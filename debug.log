@@ -1,0 +1,13 @@
+[0827/143215.097:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0828/134323.621:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1101/105207.160:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[1101/105207.161:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1101/105207.161:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1101/153917.196:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1115/112657.295:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1118/120743.454:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1118/144025.784:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1118/165425.233:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1118/184013.638:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1119/191045.945:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1128/122356.254:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports

@@ -1,0 +1,2 @@
+OrderNumber,Name,Company,Address1,Address2,City,state,ZipCode,Country,PhoneNumber,Email,ItemSKU,ItemName,ItemQTY,OrderDate
+1250,Daniel Watsons,CS,E-300,Phase 8A,lehi,ut,120306,US,8882367889,nandan.kumarabhi@gmail.com,PQTY235,Samshop,3,12/07/2019
