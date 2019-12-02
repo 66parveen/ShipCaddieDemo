@@ -338,7 +338,7 @@ public class TestAddContact extends Base {
 	@Test(priority = 7)
 	public void testAddContactWithoutPhone() {
 		addContact.clearPhone();
-
+Thread.sleep(5000);
 		File file = new File("E:\\Parveen_New\\ShipCaddieTestData.xlsx");
 
 		try {
